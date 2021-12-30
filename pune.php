@@ -23,9 +23,10 @@
     }
  } 
 
+echo json_encode($combined);
 foreach($combined as $total)
 {
-    
+
 }
 
  echo json_encode(count($combined));
